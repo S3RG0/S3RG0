@@ -34,7 +34,7 @@
 ---
 
 <div align="center" class=Tech_stack >
-    <h2 align="center"><img src="/Users/stpg/Desktop/Dev/PYTHON/Projects/github_profile/S3RG0/.Photos/1_Emoji.png" height=100px style=background> Tech Stack: </h2>
+    <h2 align="center"><img src="/Users/stpg/Desktop/Dev/PYTHON/Projects/github_profile/S3RG0/.Photos/Emoji.png" height=100px style=background> Tech Stack: </h2>
 </div>
 
 <div align="center" style=background:#d99a9a; hover=cursor:pointer class="Front-End">
