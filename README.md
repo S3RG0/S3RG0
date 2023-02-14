@@ -13,9 +13,10 @@
 
 </div>
 
-</div></br>
-
 ---
+
+</div>
+
 <div align="center" style=background:#ff4f4f;, hover=cursor:pointer class="Contacts">
     <h2 style=color:white>Contacts:</h2>
     <!-- <p style=color:black></p> -->
@@ -31,10 +32,10 @@
 </div>
 
 ---
-<div align="center" class=Tech_stack >
-    <h1 align="center"><img src=".Logos/.gifs/1_Emoji.png" height=90px style=background> Tech Stack: </h1>
-</div>
 
+<div align="center" class=Tech_stack >
+    <h2 align="center"><img src="/Users/stpg/Desktop/Dev/PYTHON/Projects/github_profile/S3RG0/.Photos/1_Emoji.png" height=100px style=background> Tech Stack: </h2>
+</div>
 
 <div align="center" style=background:#d99a9a; hover=cursor:pointer class="Front-End">
 <h2 style=color:black>Front-End:</h2>
@@ -45,8 +46,7 @@
 <img src="https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
 
-
-===================================================================
+---
 
 <div align="center" style=background:#d99a9a; hover=cursor:pointer class="Programming">
 <h2 style=color:black>Programming:</h2>
@@ -54,14 +54,16 @@
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white">
 </div> 
 
-===================================================================
+---
+
 <div align="center" style=background:#d99a9a; class="Design">
 <h2 style=color:black>Design:</h2>
 <!-- <p style=color:black></p> -->
 <img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-===================================================================
+---
+
 <div align="center" style=background:#d99a9a; class="Tools">
 <h2 style=color:black>Tools:</h2>
 <!-- <p style=color:black></p> -->
@@ -70,7 +72,7 @@
 <img src="https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=GNU bash&logoColor=white">
 </div>
 
-===================================================================
+---
 
 <div align="center" style=background:#d99a9a; class="OS">
 <h2 style=color:black>OS:</h2>
@@ -80,7 +82,7 @@
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&&logoColor=white">
 </div>
 
-===================================================================
+---
 
 <div align="center" style=background:#d99a9a; class="Tasks">
 <h2 style=color:black>Tasks:</h2>
@@ -89,12 +91,9 @@
     <img src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&&logoColor=white" alt="CodeWars"/>
 </a>
 </div>
-===================================================================
 </div>
 
----
 <!-- Добавить фото-ссылку `[![]()]()` -->
 
 <!-- Добавить названия фотографиями -->
-
 
