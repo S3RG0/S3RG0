@@ -2,22 +2,12 @@
 
 <div align="center">
     <img src=.Photos/main.jpg width=250 height=250
-     align="left"></br>
-<div align="" style=margin:50px>
-
-<h2>Сергей Тер-Петросян</h2>
-
-<p align="center">
-Начинающий Python разработчик, на текущий момент рассматриваю программирование как хобби в свободное от работы время
-</p></br>
-
-</div>
+     align="center"></br>
 
 ---
+<div align="" style=margin:50px>
 
-</div>
-
-<div align="center" style=background:#ff4f4f;, hover=cursor:pointer class="Contacts">
+<div align="center" style=background:#ff4f4f;, hover=cursor:pointer class="Contacts" >
     <h2 style=color:white>Contacts:</h2>
     <!-- <p style=color:black></p> -->
 <a href="https://www.linkedin.com/in/ter-petrosyan-sg/">
@@ -28,6 +18,9 @@
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/TG-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:ter.petrosyan.sg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail&logoColor=white" alt="mail"/>
 </a>
 </div>
 
@@ -97,3 +90,4 @@
 
 <!-- Добавить названия фотографиями -->
 
+<!-- Добавить Курсы и удостоверения -->
