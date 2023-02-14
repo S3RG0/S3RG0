@@ -1,39 +1,100 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Sergey Ter-Petrosyan
-=================================================================================
+<div class="body" align="justify" style=margin:30px>
 
+<div align="center">
+    <img src=.Photos/main.jpg width=250 height=250
+     align="left"></br>
+<div align="" style=margin:50px>
+
+<h2>Сергей Тер-Петросян</h2>
+
+<p align="center">
 Начинающий Python разработчик, на текущий момент рассматриваю программирование как хобби в свободное от работы время
----------------------------------------------------------------------------------
+</p></br>
 
-По базовому образованию я Экономист, окончил РАНХиГС по направлению "Финансы, денежное обращение и кредит", программированием занимаюсь в свободное от работы время, на текущий момент, рассматриваю как хобби
+</div>
+
+</div></br>
+
+---
+<div align="center" style=background:#ff4f4f;, hover=cursor:pointer class="Contacts">
+    <h2 style=color:white>Contacts:</h2>
+    <!-- <p style=color:black></p> -->
+<a href="https://www.linkedin.com/in/ter-petrosyan-sg/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vk.com/Sergio_7">
+    <img src="https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=VK&&logoColor=white" alt="VK"/>
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/TG-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
+
+---
+<div align="center" class=Tech_stack >
+    <h1 align="center"><img src=".Logos/.gifs/1_Emoji.png" height=90px style=background> Tech Stack: </h1>
+</div>
 
 
+<div align="center" style=background:#d99a9a; hover=cursor:pointer class="Front-End">
+<h2 style=color:black>Front-End:</h2>
+<!-- <p style=color:black></p> -->
+<img src="https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JS-black.svg?style=for-the-badge&logo=javaScript&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+</div>
 
 
+===================================================================
+
+<div align="center" style=background:#d99a9a; hover=cursor:pointer class="Programming">
+<h2 style=color:black>Programming:</h2>
+<!-- <p style=color:black></p> -->
+<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white">
+</div> 
+
+===================================================================
+<div align="center" style=background:#d99a9a; class="Design">
+<h2 style=color:black>Design:</h2>
+<!-- <p style=color:black></p> -->
+<img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+===================================================================
+<div align="center" style=background:#d99a9a; class="Tools">
+<h2 style=color:black>Tools:</h2>
+<!-- <p style=color:black></p> -->
+<img src="https://img.shields.io/badge/MS_Office-black?style=for-the-badge&logo=MicrosoftOffice&&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-black.svg?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=GNU bash&logoColor=white">
+</div>
+
+===================================================================
+
+<div align="center" style=background:#d99a9a; class="OS">
+<h2 style=color:black>OS:</h2>
+<!-- <p style=color:black></p> -->
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=MicrosoftOffice&&logoColor=white">
+<img src="https://img.shields.io/badge/MAC_OS-black?style=for-the-badge&logo=macos&&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&&logoColor=white">
+</div>
+
+===================================================================
+
+<div align="center" style=background:#d99a9a; class="Tasks">
+<h2 style=color:black>Tasks:</h2>
+<!-- <p style=color:black></p> -->
+<a href="https://www.codewars.com/users/S3RG0">
+    <img src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&&logoColor=white" alt="CodeWars"/>
+</a>
+</div>
+===================================================================
+</div>
+
+---
+<!-- Добавить фото-ссылку `[![]()]()` -->
+
+<!-- Добавить названия фотографиями -->
 
 
-* 🌍  I'm based in Москва | Ереван
-* 🖥️  See my portfolio at [___](http:pass)
-
-
-
-
-
-
-### Skills
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-
-
-### Socials
-
-<a href="https://www.github.com/S3RG0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="mailto:S.T.P.G@yandex.ru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ddd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
