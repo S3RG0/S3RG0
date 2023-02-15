@@ -10,16 +10,16 @@
 <div align="center" style=background:#ff4f4f;, hover=cursor:pointer class="Contacts" >
     <h2 style=color:white>Contacts:</h2>
     <!-- <p style=color:black></p> -->
-<a href="https://www.linkedin.com/in/ter-petrosyan-sg/">
+<a href="https://www.linkedin.com/in/ter-petrosyan-sg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://vk.com/Sergio_7">
-    <img src="https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=VK&&logoColor=white" alt="VK"/>
+<a href="https://vk.com/Sergio_7" target="_blank">
+    <img src="https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=VK&&logoColor=white" alt="VK" />
 </a>
-<a href="#">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/TG-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="mailto:ter.petrosyan.sg@gmail.com">
+<a href="mailto:ter.petrosyan.sg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail&logoColor=white" alt="mail"/>
 </a>
 </div>
